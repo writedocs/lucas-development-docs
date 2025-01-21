@@ -25,10 +25,6 @@
     {
       "label": "Guides",
       "sidebarRef": "guides"
-    },
-    {
-      "label": "API Reference",
-      "sidebarRef": "apiReference"
     }
   ],
   "externalLinks": [],
@@ -56,18 +52,6 @@
                 "basics/page-templates/authentication"
               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "sidebarRef": "apiReference",
-      "categories": [
-        {
-          "categoryName": "Example",
-          "pages": [
-            "reference/example/get-items",
-            "reference/example/create-item"
           ]
         }
       ]
