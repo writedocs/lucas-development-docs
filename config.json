@@ -38,16 +38,22 @@
             "basics/global-settings",
             "basics/markdown-basics",
             {
-              "groupName": "page-templates",
+              "groupName": "Page Templates",
               "subpages": [
                 "basics/page-templates/api-introduction",
                 "basics/page-templates/authentication",
                 "basics/page-templates/environments",
                 {
-                  "groupName": "getting-started",
+                  "groupName": "Getting Started",
                   "subpages": [
                     "basics/page-templates/getting-started/introduction",
-                    "basics/page-templates/getting-started/local-development"
+                    "basics/page-templates/getting-started/local-development",
+                    {
+                      "groupName": "Tas",
+                      "subpages": [
+                        "basics/page-templates/getting-started/tas/tas"
+                      ]
+                    }
                   ]
                 }
               ]
