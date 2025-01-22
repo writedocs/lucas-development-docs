@@ -47,25 +47,11 @@
                   "groupName": "Getting Started",
                   "subpages": [
                     "basics/page-templates/getting-started/introduction",
-                    "basics/page-templates/getting-started/local-development",
-                    {
-                      "groupName": "Getting Started",
-                      "subpages": [
-                        "basics/page-templates/getting-started/getting-started/introduction",
-                        "basics/page-templates/getting-started/getting-started/local-development"
-                      ]
-                    }
+                    "basics/page-templates/getting-started/local-development"
                   ]
                 }
               ]
             }
-          ]
-        },
-        {
-          "categoryName": "Getting Started",
-          "pages": [
-            "getting-started/introduction",
-            "getting-started/local-development"
           ]
         }
       ]
