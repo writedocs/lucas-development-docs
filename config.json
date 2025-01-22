@@ -33,13 +33,6 @@
       "sidebarRef": "guides",
       "categories": [
         {
-          "categoryName": "Getting Started",
-          "pages": [
-            "getting-started/introduction",
-            "getting-started/local-development"
-          ]
-        },
-        {
           "categoryName": "Basics",
           "pages": [
             "basics/global-settings",
@@ -48,10 +41,17 @@
               "groupName": "Page Templates",
               "subpages": [
                 "basics/page-templates/api-introduction",
-                "basics/page-templates/environments",
-                "basics/page-templates/authentication"
+                "basics/page-templates/authentication",
+                "basics/page-templates/environments"
               ]
             }
+          ]
+        },
+        {
+          "categoryName": "Getting Started",
+          "pages": [
+            "getting-started/introduction",
+            "getting-started/local-development"
           ]
         }
       ]
