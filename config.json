@@ -55,9 +55,10 @@
           ]
         },
         {
-          "categoryName": "Test",
+          "categoryName": "Getting Started",
           "pages": [
-            "test/test"
+            "getting-started/introduction",
+            "getting-started/local-development"
           ]
         }
       ]
