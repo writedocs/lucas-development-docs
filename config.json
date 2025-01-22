@@ -47,13 +47,7 @@
                   "groupName": "Getting Started",
                   "subpages": [
                     "basics/page-templates/getting-started/introduction",
-                    "basics/page-templates/getting-started/local-development",
-                    {
-                      "groupName": "Tas",
-                      "subpages": [
-                        "basics/page-templates/getting-started/tas/tas"
-                      ]
-                    }
+                    "basics/page-templates/getting-started/local-development"
                   ]
                 }
               ]
@@ -65,6 +59,12 @@
           "pages": [
             "getting-started/introduction",
             "getting-started/local-development"
+          ]
+        },
+        {
+          "categoryName": "Test",
+          "pages": [
+            "test/test2"
           ]
         }
       ]
