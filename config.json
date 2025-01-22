@@ -38,20 +38,26 @@
             "basics/global-settings",
             "basics/markdown-basics",
             {
-              "groupName": "Page Templates",
+              "groupName": "page-templates",
               "subpages": [
                 "basics/page-templates/api-introduction",
                 "basics/page-templates/authentication",
-                "basics/page-templates/environments"
+                "basics/page-templates/environments",
+                {
+                  "groupName": "getting-started",
+                  "subpages": [
+                    "basics/page-templates/getting-started/introduction",
+                    "basics/page-templates/getting-started/local-development"
+                  ]
+                }
               ]
             }
           ]
         },
         {
-          "categoryName": "Getting Started",
+          "categoryName": "Test",
           "pages": [
-            "getting-started/introduction",
-            "getting-started/local-development"
+            "test/test"
           ]
         }
       ]
