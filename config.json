@@ -51,13 +51,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "groupName": "Getting Started",
-              "subpages": [
-                "basics/getting-started/introduction",
-                "basics/getting-started/local-development"
-              ]
             }
           ]
         },
