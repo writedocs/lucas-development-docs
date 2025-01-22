@@ -42,16 +42,16 @@
               "subpages": [
                 "basics/page-templates/api-introduction",
                 "basics/page-templates/authentication",
-                "basics/page-templates/environments"
+                "basics/page-templates/environments",
+                {
+                  "groupName": "Getting Started",
+                  "subpages": [
+                    "basics/page-templates/getting-started/introduction",
+                    "basics/page-templates/getting-started/local-development"
+                  ]
+                }
               ]
             }
-          ]
-        },
-        {
-          "categoryName": "Getting Started",
-          "pages": [
-            "getting-started/introduction",
-            "getting-started/local-development"
           ]
         }
       ]
