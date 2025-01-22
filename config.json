@@ -51,7 +51,21 @@
                   ]
                 }
               ]
+            },
+            {
+              "groupName": "Getting Started",
+              "subpages": [
+                "basics/getting-started/introduction",
+                "basics/getting-started/local-development"
+              ]
             }
+          ]
+        },
+        {
+          "categoryName": "Getting Started",
+          "pages": [
+            "getting-started/introduction",
+            "getting-started/local-development"
           ]
         }
       ]
