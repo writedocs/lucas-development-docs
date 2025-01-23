@@ -44,6 +44,12 @@
                 "basics/page-templates/authentication",
                 "basics/page-templates/environments"
               ]
+            },
+            {
+              "groupName": "Test",
+              "subpages": [
+                "basics/test/test"
+              ]
             }
           ]
         },
