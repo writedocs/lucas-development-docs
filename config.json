@@ -23,43 +23,36 @@
   "changelog": false,
   "navbar": [
     {
-      "label": "Guides",
-      "sidebarRef": "guides"
+      "label": "Basics",
+      "sidebarRef": "basics"
+    },
+    {
+      "label": "Getting Started",
+      "sidebarRef": "getting-started"
     }
   ],
   "externalLinks": [],
   "sidebars": [
     {
-      "sidebarRef": "guides",
+      "sidebarRef": "basics",
       "categories": [
         {
-          "categoryName": "Basics",
+          "categoryName": "Main",
           "pages": [
-            "basics/global-settings",
-            "basics/markdown-basics",
-            {
-              "groupName": "Page Templates",
-              "subpages": [
-                "basics/page-templates/api-introduction",
-                "basics/page-templates/authentication",
-                "basics/page-templates/environments",
-                {
-                  "groupName": "Getting Started",
-                  "subpages": [
-                    "basics/page-templates/getting-started/introduction",
-                    "basics/page-templates/getting-started/local-development"
-                  ]
-                }
-              ]
-            },
-            "basics/test"
+            "basics/global-settings.mdx",
+            "basics/markdown-basics.mdx"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "sidebarRef": "getting-started",
+      "categories": [
         {
-          "categoryName": "Getting Started",
+          "categoryName": "Main",
           "pages": [
-            "getting-started/introduction",
-            "getting-started/local-development"
+            "getting-started/introduction.mdx",
+            "getting-started/local-development.mdx"
           ]
         }
       ]
