@@ -34,25 +34,25 @@
   "externalLinks": [],
   "sidebars": [
     {
-      "sidebarRef": "basics",
+      "sidebarRef": "guides",
       "categories": [
         {
-          "categoryName": "Main",
+          "categoryName": "Getting Started",
           "pages": [
-            "basics/global-settings.mdx",
-            "basics/markdown-basics.mdx"
+            {
+              "groupName": "Pasta1",
+              "subpages": [
+                "getting-started/pasta1/arquivo1"
+              ]
+            },
+            "getting-started/local-development"
           ]
-        }
-      ]
-    },
-    {
-      "sidebarRef": "getting-started",
-      "categories": [
+        },
         {
-          "categoryName": "Main",
+          "categoryName": "Basicsasd",
           "pages": [
-            "getting-started/introduction.mdx",
-            "getting-started/local-development.mdx"
+            "basicsasd/test",
+            "basicsasd/global-settings"
           ]
         }
       ]
